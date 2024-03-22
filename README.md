@@ -1,5 +1,3 @@
-# Weather-Api-Project by Aditya Patel
-
 # Weather Information Retriever
 
 ## Overview
