@@ -37,4 +37,4 @@ The script does not include extensive error handling. It assumes valid input fro
 ## Disclaimer
 
 This script is provided as a demonstration of accessing weather data from an external API and should be used for educational purposes only. The usage of the OpenWeatherMap API is subject to their terms and conditions.
-```
+
