@@ -1,4 +1,4 @@
-# Weather Information Retriever
+# WeatherSage: Weather Information Retriever
 
 ## Overview
 This Python script retrieves current weather information for a specified city using the OpenWeatherMap API. It then displays relevant weather statistics including temperature, weather description, humidity, and wind speed. Additionally, it saves the API response content to a file named 'Weather.txt'.
